@@ -1,4 +1,4 @@
 {
   "groupName": "all",
-  "labels": "Renovate"
+  "labels": ["Renovate"]
 }
