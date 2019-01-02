@@ -1,6 +1,5 @@
 {
   "groupName": "all",
-  "recreate-closed": true,
   "labels": ["Renovate"],
   "repositories": [
     {
