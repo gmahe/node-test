@@ -1,21 +1,19 @@
 {
-  "labels": ["Renovate"],
+  "assignees": "gmahe",
   "repositories": [
     {
-      "repository": "gmahe/node-test",
       "packageRules": [
         {
           "paths": ["dir1/package.json"],
-          "labels": ["dir1"]
+          "labels": ["dir1", "Renovate"]
         }
       ]
     },
     {
-      "repository": "gmahe/node-test",
       "packageRules": [
         {
           "paths": ["dir2/package.json"],
-          "labels": ["dir2"]
+          "labels": ["dir2", "Renovate"]
         }
       ]
     }
