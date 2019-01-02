@@ -9,7 +9,6 @@
     "shortid": "^2.2.8"
   },
   "devDependencies": {
-    "ava": "^0.25.0",
     "eslint": "^4.17.0",
     "eslint-config-react-app": "^2.1.0",
     "eslint-plugin-flowtype": "^2.42.0",
