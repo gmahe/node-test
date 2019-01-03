@@ -1,7 +1,5 @@
 {
   "assignees": ["gmahe"],
-  "prTitle": "Vroom {{depName}} + prTitle",
-  "commitMessage": "Vroom vroom dependency {{depName}} to version {{newValue}} + commitMessage",
   "packageRules": [
     {
       "packagePatterns": ["^eslint"],
