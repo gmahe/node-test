@@ -1,11 +1,6 @@
 {
   "assignees": ["gmahe"],
-  "packageRules": [
-    {
-      "packagePatterns": ["^eslint"],
-      "groupName": "eslint packages"
-    }
-  ],
+
   "repositories": [
     {
       "packageRules": [
