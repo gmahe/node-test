@@ -1,18 +1,12 @@
 {
-  {
-    "packageRules": [
-      {
-        "paths": ["dir1/package.json"],
-        "labels": ["dir1", "Renovate"]
-      }
-    ]
-  },
-  {
-    "packageRules": [
-      {
-        "paths": ["dir2/package.json"],
-        "labels": ["dir2", "Renovate"]
-      }
-    ]
-  }
+  "packageRules": [
+    {
+      "paths": ["dir1/package.json"],
+      "labels": ["dir1", "Renovate"]
+    },
+    {
+      "paths": ["dir2/package.json"],
+      "labels": ["dir2", "Renovate"]
+    }
+  ]
 }
