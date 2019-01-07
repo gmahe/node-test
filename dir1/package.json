@@ -11,7 +11,7 @@
   "devDependencies": {
     "ava": "^0.25.0",
     "eslint": "^4.17.0",
-    "eslint-plugin-flowtype": "^2.42.0",
+    "eslint-plugin-flowtype": "^3.0.0",
     "fetch-cookie": "^0.7.0"
   }
 }
