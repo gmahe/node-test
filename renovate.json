@@ -1,4 +1,5 @@
 {
+  "labels": ["test"],
   "packageRules": [
     {
       "paths": ["dir1/package.json"],
