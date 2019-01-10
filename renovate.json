@@ -2,10 +2,12 @@
   "labels": ["test"],
   "packageRules": [
     {
+      "branchPrefix": "renovate/dir1-",
       "paths": ["dir1/package.json"],
       "labels": ["dir1", "Renovate"]
     },
     {
+      "branchPrefix": "renovate/dir2-",
       "paths": ["dir2/package.json"],
       "labels": ["dir2", "Renovate"]
     }
